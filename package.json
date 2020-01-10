@@ -1,0 +1,37 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "egg-scripts start --prot=8001 --daemon --title=egg-server-snailmarket",
+    "stop": "egg-scripts stop",
+    "test": "egg-bin test",
+    "dev": "DEBUG=http,service:* egg-bin dev --port 8003",
+    "cov": "egg-bin cov"
+  },
+  "author": "hsl",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^6.0.1",
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "date-fns": "1.29.0",
+    "debug": "^4.1.0",
+    "egg": "^2.8.1",
+    "egg-bin": "^4.7.0",
+    "egg-cors": "^2.2.3",
+    "egg-mongoose": "^3.1.0",
+    "egg-redis": "^2.0.0",
+    "egg-schedule": "^3.6.4",
+    "egg-scripts": "^2.6.0",
+    "egg-session": "^3.1.0",
+    "lodash": "^4.17.10",
+    "mongoose-auto-increment": "^5.0.1",
+    "node-uuid": "^1.4.8",
+    "qs": "6.5.2",
+    "vue-ckeditor5": "0.1.5",
+    "vue-class-component": "6.2.0",
+    "vue-property-decorator": "7.0.0"
+  }
+}

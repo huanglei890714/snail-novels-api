@@ -1,0 +1,3 @@
+2020-01-09 12:59:00,647 INFO 36579 [Timer] /Users/huangshenglei/nodejs/snail-novel/service/app/schedule/update_club.js next time will execute after 39669356ms at 2020-01-10 00:00:10.003
+2020-01-09 12:59:00,645 INFO 37532 [Job#1578545940644340193203796221] /Users/huangshenglei/nodejs/snail-novel/service/app/schedule/update_club.js executing by app
+2020-01-09 12:59:00,773 INFO 37532 [Job#1578545940644340193203796221] /Users/huangshenglei/nodejs/snail-novel/service/app/schedule/update_club.js execute succeed, used 128ms
