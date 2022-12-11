@@ -29,7 +29,7 @@
     "lodash": "^4.17.10",
     "mongoose-auto-increment": "^5.0.1",
     "node-uuid": "^1.4.8",
-    "qs": "6.5.2",
+    "qs": "6.5.3",
     "vue-ckeditor5": "0.1.5",
     "vue-class-component": "6.2.0",
     "vue-property-decorator": "7.0.0"
